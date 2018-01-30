@@ -1,0 +1,38 @@
+
+button {
+display: inline-block;
+background-color:#3B170B;
+color:#ffffff;
+border-radius: 5px;
+text-align:center;
+margin-top:2px;
+padding: 5px 15px;
+}
+
+form{
+	text-align: center;
+	background-color: #A9BCF5;
+	font-family: Impact, Charcoal, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	color: Navy;
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 25pt;
+}
+ul{
+	text-align: center;
+	font-size: 18pt;
+	list-style-type: none;
+	padding-left: 9px;
+	margin-left: 35%;
+	margin-right: 35%;
+	color: Navy;
+	background-color: orange;
+	font-family: Impact, Charcoal, sans-serif;
+}
+body{
+	background-color: #A9BCF5;
+}
+
